@@ -1,6 +1,6 @@
 # Katana
 C2 exploitation framework
-
+(Developed and coded by Soumabha Majumdar)
 
 #Intro
 
