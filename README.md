@@ -62,3 +62,9 @@ It is a C2(Command and Control) framework written in python.
 ->>Run the C2_client.exe in the victim machine and enjoy the opened cli interface in the attacker machine(Note: PLease run the shell access command in the last after executing the rest of the two command or if you want only the shell command)
 
 ->> Forward ports using NGROK and PORTMAP.IO
+
+
+
+## Note: You have to add publisher to C2_client.exe by using Windows sdk and signtool to make it totally undetectable and run it hassle free.
+Thank you
+
