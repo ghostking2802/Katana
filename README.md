@@ -7,11 +7,17 @@ C2 exploitation framework
 It is a C2(Command and Control) framework written in python.
 
 #Features
+
 -->Staged payload=>It will not carry all the payloads at once to make itself undetectable
--->Esy to configure
+
+-->Easy to configure
+
 -->Hassle free execution
+
 -->Added chrome cache extraction module
+
 -->Get shell
+
 -->Get webcam access
 
 ##Tested on Windows 11 pro
