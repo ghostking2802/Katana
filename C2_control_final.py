@@ -43,7 +43,7 @@ def stream():
 	k.wait()
 def password():
 	global s
-	m=subprocess.Popen("xterm -e python3 chrome_recieve.py", shell=True)
+	m=subprocess.Popen("xterm -e python3 chrome_receive.py", shell=True)
 	m.wait()
 	
 def control():
